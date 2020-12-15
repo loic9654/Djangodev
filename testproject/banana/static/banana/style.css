@@ -1,0 +1,12 @@
+body {
+    background: #f2f2f2 url("images/background.gif") no-repeat;
+}
+
+h1 {
+    font-family: 'Arial' ,sans-serif;
+    text-align: center;
+}
+
+li a, li a:visited {
+    color: green;
+}
